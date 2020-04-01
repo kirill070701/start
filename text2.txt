@@ -1,1 +1,2 @@
 файл ветки new
+hello word
