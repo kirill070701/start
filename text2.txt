@@ -1,2 +1,2 @@
 файл ветки new
-файл ветки master
+hello word
